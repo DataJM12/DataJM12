@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DataJM12
+- 👋 Hi, I’m @Jan Muhammad 
 - 👀 I’m interested in Artificial Intelligence 
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data Science Projects 
